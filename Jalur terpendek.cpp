@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    int jarak1, jarak2, jarak3, jarak4, jarak5, jarak6, jarak7, jarak8, jarak9, jarak10, jarak11, jarak12, A[5];
+    int jarak1, jarak2, jarak3, jarak4, jarak5, jarak6, jarak7, jarak8, jarak9, jarak10, jarak11, jarak12, A[0];
     
     cout<<"           A-------B-------C      "<<endl;
     cout<<"          /       /       /       "<<endl;
